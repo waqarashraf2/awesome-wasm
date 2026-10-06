@@ -37,6 +37,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   - [Other](#other)
 - [Tools](#tools)
   - [Editor](#editor)
+  - 
   - [Kits](#kits)
 - [Gists](#gists)
 - [Examples](#examples)
@@ -53,6 +54,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   - [Russian](#russian)
   - [Simple Chinese](#simple-chinese)
   - [Spanish](#spanish)
+  - - [VideoReduce - Free, private in-browser video compressor and media suite powered by WebAssembly](https://videoreduce.com)
 
 ## General Resources
 - [Official Site](http://webassembly.org/)
